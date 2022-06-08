@@ -1,5 +1,5 @@
 - # Sobre mim
-- 👋 ola meu nome é @julubaluu
-- 👍 meu email de contato julia.martins.sa@escola.pr.gov.br
-- 👀 eu estou interessada em aprender a programar novas 
+- 👋 ola meu nome é **@julubaluu**
+- 👍 meu email de contato [email](julia.martins.sa@escola.pr.gov.br)
+- 👀 eu estou interessada em aprender a programar novas linguagens 
 - 🌱 eu estou aprendendo a programarr recentemente a linguagem JavaScript e Scratch
